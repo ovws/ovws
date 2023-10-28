@@ -37,10 +37,5 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown&logoColor=ffffff)](https://www.markdownguide.org/)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=wikiq&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wikiq&layout=compact&exclude_repo=wikiq.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <span><img src="https://github-readme-stats.vercel.app/api?username=wikiq&show_icons=true&theme=react&hide_border=false" alt="wikiq" width=49.8% /></span>
 <span><img src="https://github-readme-streak-stats.herokuapp.com/?user=wikiq&theme=react" alt="wikiq" width=49.8% /></span>
