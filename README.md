@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown&logoColor=ffffff)](https://www.markdownguide.org/)
 
 
-<span><img src="https://github-readme-stats.vercel.app/api?username=wikiq&show_icons=true&theme=react&hide_border=false" alt="wikiq" width=49.8% /></span>
-<span><img src="https://github-readme-streak-stats.herokuapp.com/?user=wikiq&theme=react" alt="wikiq" width=49.8% /></span>
+<span><img src="https://github-readme-stats.vercel.app/api?username=wikiq&show_icons=true&theme=react&hide_border=false" alt="wikiq" width=52% /></span>
+<span><img src="https://github-readme-streak-stats.herokuapp.com/?user=wikiq&theme=react" alt="wikiq" width=52% /></span>
