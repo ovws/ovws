@@ -12,10 +12,10 @@
 
 <div align="center">
 
-### ☁️ Cloud & Infrastructure
+### 🚀 Cloud Native & Infrastructure
 ![](https://skillicons.dev/icons?i=aws,azure,gcp,terraform,kubernetes,docker,ansible,linux,nginx,jenkins,gitlab,githubactions&perline=6)
 
-### 💻 Development & Data Science
+### 💻 Application Development & Data
 ![](https://skillicons.dev/icons?i=python,go,rust,nodejs,react,vue,postgres,mongodb,redis,elasticsearch,fastapi,flask&perline=6)
 
 </div>
