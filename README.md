@@ -16,10 +16,7 @@
 ![](https://skillicons.dev/icons?i=aws,azure,gcp,terraform,kubernetes,docker,ansible,linux,nginx,jenkins,gitlab,githubactions&perline=6)
 
 ### 💻 Application Development & Data
-![](https://skillicons.dev/icons?i=python,go,rust,react,git,notion,tensorflow,mongodb,redis,vim,fastapi,flask&perline=6)
-
-</div>
-
+![](https://skillicons.dev/icons?i=python,go,rust,nodejs,react,vue,redis,figma,vim,git,latex,md&perline=6)
 ## 📊 GitHub Analytics
 
 <div align="center">
