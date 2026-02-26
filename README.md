@@ -53,7 +53,7 @@
 
 </div>
 
-## � Credentials
+## 🏆 Credentials
 
 <div align="center">
 
@@ -61,8 +61,6 @@
 ![DevOps Veteran](https://img.shields.io/badge/Experience-5%2B%20years%20expertise-orange)
 
 </div>
-
-## 📚 Latest Updates
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
