@@ -32,17 +32,25 @@
 ## 🚀 Core Focus Areas
 
 ### ⚡ High-Impact Domains
+
+<div align="left">
+
 - **Cloud-Native Architecture**: Crafting resilient, auto-scaling systems
 - **DevOps Excellence**: Automating everything from CI/CD to monitoring
 - **AI Infrastructure**: Building next-gen ML/LLM deployment pipelines
 
+</div>
+
 ## 💫 About Me
 
+<div align="left">
 - �️ **Building**: Scalable cloud platforms & intelligent automation
 - 📚 **Mastering**: Kubernetes orchestration & microservices patterns  
 - 🤝 **Expertise**: Cloud infrastructure, containerization, observability
 - 🌐 **Connect**: [GitHub Profile](https://github.com/ovws)
 - 💡 **Motto**: "Code it once, automate it forever"
+
+</div>
 
 ## � Credentials
 
