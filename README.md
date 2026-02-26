@@ -29,31 +29,31 @@
 
 </div>
 
-## 🌟 Featured Projects
+## 🚀 Core Focus Areas
 
 <div align="center">
 
-### 🎯 Current Focus
-- **Cloud-native Infrastructure**: Building scalable and resilient systems
-- **DevOps Automation**: Streamlining deployment and monitoring processes
-- **Monitoring Solutions**: Implementing comprehensive observability
+### ⚡ High-Impact Domains
+- **Cloud-Native Architecture**: Crafting resilient, auto-scaling systems
+- **DevOps Excellence**: Automating everything from CI/CD to monitoring
+- **AI Infrastructure**: Building next-gen ML/LLM deployment pipelines
 
 </div>
 
-## 🎯 About Me
+## 💫 About Me
 
-- 🔭 **Currently Working On**: Cloud-native infrastructure and DevOps automation
-- 🌱 **Learning**: Advanced Kubernetes orchestration and microservices architecture
-- 💬 **Ask me about**: Kubernetes, Docker, Prometheus, Grafana, and DevOps best practices
-- 📫 **How to reach me**: [GitHub Profile](https://github.com/ovws)
-- ⚡ **Fun fact**: I believe in infrastructure as code and automation for everything!
+- �️ **Building**: Scalable cloud platforms & intelligent automation
+- 📚 **Mastering**: Kubernetes orchestration & microservices patterns  
+- 🤝 **Expertise**: Cloud infrastructure, containerization, observability
+- 🌐 **Connect**: [GitHub Profile](https://github.com/ovws)
+- 💡 **Motto**: "Code it once, automate it forever"
 
-## 🏆 Achievements
+## � Credentials
 
 <div align="center">
 
-![Certifications](https://img.shields.io/badge/Certifications-Kubernetes%20%7C%20Docker%20%7C%20AWS-blue)
-![Experience](https://img.shields.io/badge/Experience-5%2B%20years%20DevOps-orange)
+![Cloud Mastery](https://img.shields.io/badge/Cloud-Kubernetes%20%7C%20AWS%20%7C%20Azure-blueviolet)
+![DevOps Veteran](https://img.shields.io/badge/Experience-5%2B%20years%20expertise-orange)
 
 </div>
 
@@ -68,8 +68,8 @@
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/)
+[![Telegram](https://img.shields.io/badge/Telegram-Join%20Chat-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/woccn)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/wensqi)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:)
 
 **"Automation is not about replacing humans, but about empowering them to do more meaningful work."**
