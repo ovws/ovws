@@ -31,14 +31,10 @@
 
 ## 🚀 Core Focus Areas
 
-<div align="center">
-
 ### ⚡ High-Impact Domains
 - **Cloud-Native Architecture**: Crafting resilient, auto-scaling systems
 - **DevOps Excellence**: Automating everything from CI/CD to monitoring
 - **AI Infrastructure**: Building next-gen ML/LLM deployment pipelines
-
-</div>
 
 ## 💫 About Me
 
