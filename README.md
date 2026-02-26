@@ -44,7 +44,8 @@
 ## 💫 About Me
 
 <div align="left">
-- �️ **Building**: Scalable cloud platforms & intelligent automation
+
+- 🏗️ **Building**: Scalable cloud platforms & intelligent automation
 - 📚 **Mastering**: Kubernetes orchestration & microservices patterns  
 - 🤝 **Expertise**: Cloud infrastructure, containerization, observability
 - 🌐 **Connect**: [GitHub Profile](https://github.com/ovws)
