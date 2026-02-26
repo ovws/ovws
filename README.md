@@ -8,18 +8,15 @@
 
 </div>
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Modern Tech Stack
 
 <div align="center">
 
-### 🏗️ Infrastructure & DevOps
-![](https://skillicons.dev/icons?i=kubernetes,docker,ansible,linux,nginx,cloudflare,consul,prometheus,grafana,harbor,ceph,podman&perline=6)
+### 🚀 Cloud Native & Infrastructure
+![](https://skillicons.dev/icons?i=aws,azure,gcp,terraform,kubernetes,docker,ansible,linux,nginx,jenkins,gitlab,githubactions&perline=6)
 
-### 💻 Development
-![](https://skillicons.dev/icons?i=go,md,css,github,githubactions,hugo&perline=6)
-
-</div>
-
+### 💻 Application Development & Data
+![](https://skillicons.dev/icons?i=python,go,rust,nodejs,react,vue,redis,figma,vim,git,latex,md&perline=6)
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -32,31 +29,36 @@
 
 </div>
 
-## 🌟 Featured Projects
+## 🚀 Core Focus Areas
 
-<div align="center">
+### ⚡ High-Impact Domains
 
-### 🎯 Current Focus
-- **Cloud-native Infrastructure**: Building scalable and resilient systems
-- **DevOps Automation**: Streamlining deployment and monitoring processes
-- **Monitoring Solutions**: Implementing comprehensive observability
+<div align="left">
+
+- **Cloud-Native Architecture**: Crafting resilient, auto-scaling systems
+- **DevOps Excellence**: Automating everything from CI/CD to monitoring
+- **AI Infrastructure**: Building next-gen ML/LLM deployment pipelines
 
 </div>
 
-## 🎯 About Me
+## 💫 About Me
 
-- 🔭 **Currently Working On**: Cloud-native infrastructure and DevOps automation
-- 🌱 **Learning**: Advanced Kubernetes orchestration and microservices architecture
-- 💬 **Ask me about**: Kubernetes, Docker, Prometheus, Grafana, and DevOps best practices
-- 📫 **How to reach me**: [GitHub Profile](https://github.com/ovws)
-- ⚡ **Fun fact**: I believe in infrastructure as code and automation for everything!
+<div align="left">
 
-## 🏆 Achievements
+- 🏗️ **Building**: Scalable cloud platforms & intelligent automation
+- 📚 **Mastering**: Kubernetes orchestration & microservices patterns  
+- 🤝 **Expertise**: Cloud infrastructure, containerization, observability
+- 🌐 **Connect**: [GitHub Profile](https://github.com/ovws)
+- 💡 **Motto**: "Code it once, automate it forever"
+
+</div>
+
+## � Credentials
 
 <div align="center">
 
-![Certifications](https://img.shields.io/badge/Certifications-Kubernetes%20%7C%20Docker%20%7C%20AWS-blue)
-![Experience](https://img.shields.io/badge/Experience-5%2B%20years%20DevOps-orange)
+![Cloud Mastery](https://img.shields.io/badge/Cloud-Kubernetes%20%7C%20AWS%20%7C%20Azure-blueviolet)
+![DevOps Veteran](https://img.shields.io/badge/Experience-5%2B%20years%20expertise-orange)
 
 </div>
 
@@ -71,8 +73,8 @@
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/)
+[![Telegram](https://img.shields.io/badge/Telegram-Join%20Chat-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/woccn)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/wensqi)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:)
 
 **"Automation is not about replacing humans, but about empowering them to do more meaningful work."**
