@@ -8,15 +8,15 @@
 
 </div>
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Modern Tech Stack
 
 <div align="center">
 
-### 🏗️ Infrastructure & DevOps
-![](https://skillicons.dev/icons?i=kubernetes,docker,ansible,linux,nginx,cloudflare,consul,prometheus,grafana,harbor,ceph,podman&perline=6)
+### ☁️ Cloud & Infrastructure
+![](https://skillicons.dev/icons?i=aws,azure,gcp,terraform,kubernetes,docker,ansible,linux,nginx,jenkins,gitlab,githubactions&perline=6)
 
-### 💻 Development
-![](https://skillicons.dev/icons?i=go,md,css,github,githubactions,hugo&perline=6)
+### 💻 Development & Data Science
+![](https://skillicons.dev/icons?i=python,go,rust,nodejs,react,vue,postgres,mongodb,redis,elasticsearch,fastapi,flask&perline=6)
 
 </div>
 
