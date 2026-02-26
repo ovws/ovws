@@ -53,16 +53,13 @@
 
 </div>
 
-## � Credentials
+## 🏆 Credentials
 
 <div align="center">
-
 ![Cloud Mastery](https://img.shields.io/badge/Cloud-Kubernetes%20%7C%20AWS%20%7C%20Azure-blueviolet)
 ![DevOps Veteran](https://img.shields.io/badge/Experience-5%2B%20years%20expertise-orange)
 
 </div>
-
-## 📚 Latest Updates
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
