@@ -77,10 +77,8 @@
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/wensqi)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:)
 
-<div align = "left">
-
 **"Automation is not about replacing humans, but about empowering them to do more meaningful work."**
 
 ⭐ **If you find my work helpful, consider giving it a star!** ⭐
-</div>
+
 </div>
