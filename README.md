@@ -13,10 +13,10 @@
 <div align="center">
 
 ### 🚀 Cloud Native & Infrastructure
-![](https://skillicons.dev/icons?i=aws,azure,gcp,terraform,kubernetes,docker,ansible,linux,nginx,jenkins,gitlab,githubactions,pytorch,tensorflow&perline=6)
+![](https://skillicons.dev/icons?i=aws,azure,gcp,terraform,kubernetes,docker,ansible,linux,nginx,jenkins,gitlab,githubactions,openai,llm&perline=6)
 
 ### 💻 Application Development & Data
-![](https://skillicons.dev/icons?i=python,go,rust,nodejs,react,vue,postgres,mongodb,redis,elasticsearch,fastapi,flask,ml,ai&perline=6)
+![](https://skillicons.dev/icons?i=python,go,rust,nodejs,react,vue,postgres,mongodb,redis,elasticsearch,fastapi,flask,claude,openclaw&perline=6)
 
 </div>
 
