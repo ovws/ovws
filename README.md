@@ -16,7 +16,7 @@
 ![](https://skillicons.dev/icons?i=aws,azure,gcp,terraform,kubernetes,docker,ansible,linux,nginx,jenkins,gitlab,githubactions&perline=6)
 
 ### 💻 Application Development & Data
-![](https://skillicons.dev/icons?i=python,go,rust,nodejs,react,vue,postgres,mongodb,redis,elasticsearch,fastapi,flask&perline=6)
+![](https://skillicons.dev/icons?i=python,go,rust,react,git,notion,tensorflow,mongodb,redis,vim,fastapi,flask&perline=6)
 
 </div>
 
