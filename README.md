@@ -1,78 +1,81 @@
-# 🚀 OVWS - DevOps & Cloud Engineer
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
+  <img alt="文山木公 profile control plane" src="assets/hero-light.svg" width="100%">
+</picture>
 
-<div align="center">
+![profile](https://img.shields.io/badge/profile-ovws-00A7D1?style=flat-square&labelColor=102934) ![layers](https://img.shields.io/badge/layers-8-E84A8A?style=flat-square&labelColor=102934)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ovws&color=blue&style=flat-square)
-![GitHub Followers](https://img.shields.io/github/followers/ovws?label=Follow&style=social)
-![GitHub Stars](https://img.shields.io/github/stars/ovws?style=social)
+Projects and experiments across Cloudflare, workflow automation, developer tooling, and Chinese input methods\.
 
-</div>
+## Flagship systems
 
-## 🛠️ Modern Tech Stack
+| Repository | Role | Purpose |
+| --- | --- | --- |
+| [`agent-inbox`](https://github.com/ovws/agent-inbox) ![stars](https://img.shields.io/github/stars/ovws/agent--inbox?style=flat-square&label=%E2%98%85) | CLOUDFLARE | Self-hosted email with Durable Objects, R2, Workers AI, and an integrated agent\. |
+| [`fat-tiger`](https://github.com/ovws/fat-tiger) ![stars](https://img.shields.io/github/stars/ovws/fat--tiger?style=flat-square&label=%E2%98%85) | INPUT | A feature-rich Rime shape-based input method with language-model support\. |
+| [`Proxy`](https://github.com/ovws/Proxy) ![stars](https://img.shields.io/github/stars/ovws/Proxy?style=flat-square&label=%E2%98%85) | NETWORK | 个人代理分流、规则与配置。 |
+| [`Rime`](https://github.com/ovws/Rime) ![stars](https://img.shields.io/github/stars/ovws/Rime?style=flat-square&label=%E2%98%85) | CONFIG | 个人 Rime 配置，包含虎码与魔然码。 |
+| [`index`](https://github.com/ovws/index) ![stars](https://img.shields.io/github/stars/ovws/index?style=flat-square&label=%E2%98%85) | START PAGE | A responsive personal navigation page with a lightweight interface\. |
+| [`lishi-keyboard-theme`](https://github.com/ovws/lishi-keyboard-theme) ![stars](https://img.shields.io/github/stars/ovws/lishi--keyboard--theme?style=flat-square&label=%E2%98%85) | KEYBOARD | 李氏三拼 3x5 键盘双字体主题。 |
 
-<div align="center">
+## Closed-loop architecture
 
-### 🚀 Cloud Native & Infrastructure
-![](https://skillicons.dev/icons?i=aws,azure,gcp,terraform,kubernetes,docker,ansible,linux,nginx,jenkins,gitlab,githubactions&perline=6)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/closed-loop-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/closed-loop-light.svg">
+  <img alt="文山木公 architecture map" src="assets/closed-loop-light.svg" width="100%">
+</picture>
 
-### 💻 Application Development & Data
-![](https://skillicons.dev/icons?i=python,go,rust,nodejs,react,vue,redis,figma,notion,git,vim,md&perline=6)
-## 📊 GitHub Analytics
+## Module registry
 
-<div align="center">
+<details>
+<summary><strong>Cloud &amp; automation</strong> · 4 modules</summary>
 
-### 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=ovws&theme=radical&hide_border=true)
+| Module | Purpose |
+| --- | --- |
+| [`agent-inbox`](https://github.com/ovws/agent-inbox) | Self-hosted AI email on Cloudflare Workers\. |
+| [`n8n`](https://github.com/ovws/n8n) | Workflow automation with code and no-code tools\. |
+| [`GLaDOS`](https://github.com/ovws/GLaDOS) | Automated check-ins with GitHub Actions\. |
+| [`dnsdev`](https://github.com/ovws/dnsdev) | DNS and cloud infrastructure experiments\. |
 
-### 📈 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ovws&theme=react-dark&hide_border=true&area=true)
+</details>
 
-</div>
+<details>
+<summary><strong>Input systems</strong> · 3 modules</summary>
 
-## 🚀 Core Focus Areas
+| Module | Purpose |
+| --- | --- |
+| [`fat-tiger`](https://github.com/ovws/fat-tiger) | 基于 Rime 的虎码智能中文输入方案。 |
+| [`Rime`](https://github.com/ovws/Rime) | 个人 Rime 配置，包含虎码与魔然码。 |
+| [`lishi-keyboard-theme`](https://github.com/ovws/lishi-keyboard-theme) | 李氏三拼 3x5 键盘双字体主题。 |
 
-### ⚡ High-Impact Domains
+</details>
 
-<div align="left">
+<details>
+<summary><strong>Web &amp; applications</strong> · 4 modules</summary>
 
-- **Cloud-Native Architecture**: Crafting resilient, auto-scaling systems
-- **DevOps Excellence**: Automating everything from CI/CD to monitoring
-- **AI Infrastructure**: Building next-gen ML/LLM deployment pipelines
+| Module | Purpose |
+| --- | --- |
+| [`jsonss`](https://github.com/ovws/jsonss) | A TypeScript application built with Google AI Studio\. |
+| [`index`](https://github.com/ovws/index) | A responsive personal start page\. |
+| [`resume`](https://github.com/ovws/resume) | A personal resume website built with HTML, CSS, and JavaScript\. |
+| [`wikiq.github.io`](https://github.com/ovws/wikiq.github.io) | A personal website and publishing project\. |
 
-</div>
+</details>
 
-## 💫 About Me
+<details>
+<summary><strong>Tools &amp; experiments</strong> · 4 modules</summary>
 
-<div align="left">
+| Module | Purpose |
+| --- | --- |
+| [`Proxy`](https://github.com/ovws/Proxy) | 个人代理分流、规则与配置。 |
+| [`bwg`](https://github.com/ovws/bwg) | A Go-based utility project\. |
+| [`TwoGo`](https://github.com/ovws/TwoGo) | A Go experiment and utility project\. |
+| [`comment`](https://github.com/ovws/comment) | NotionNuxt 评论插件。 |
 
-- 🏗️ **Building**: Scalable cloud platforms & intelligent automation
-- 📚 **Mastering**: Kubernetes orchestration & microservices patterns  
-- 🤝 **Expertise**: Cloud infrastructure, containerization, observability
-- 🌐 **Connect**: [GitHub Profile](https://github.com/ovws)
-- 💡 **Motto**: "Code it once, automate it forever"
+</details>
 
-</div>
+<p align="center"><a href="https://github.com/ovws">GitHub</a> · <a href="https://t.me/woccn">Telegram</a> · <a href="https://twitter.com/wensqi">X / Twitter</a></p>
 
-## 🏆 Credentials
-
-<div align="center">
-
-![Cloud Mastery](https://img.shields.io/badge/Cloud-Kubernetes%20%7C%20AWS%20%7C%20Azure-blueviolet)
-![DevOps Veteran](https://img.shields.io/badge/Experience-5%2B%20years%20expertise-orange)
-
-</div>
-
-
-<div align="center">
-
-## 🤝 Let's Connect
-
-[![Telegram](https://img.shields.io/badge/Telegram-Join%20Chat-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/woccn)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/wensqi)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:)
-
-**"Automation is not about replacing humans, but about empowering them to do more meaningful work."**
-
-⭐ **If you find my work helpful, consider giving it a star!** ⭐
-
-</div>
+<!-- Generated by profile-control-plane. Edit profile.yaml, not this file. -->
