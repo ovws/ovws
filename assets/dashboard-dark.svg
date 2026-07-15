@@ -25,21 +25,21 @@
       <rect width="267" height="100" rx="12" fill="#0B1D27" stroke="#244957"/>
       <path d="M0 12Q0 0 12 0H267" fill="none" stroke="#00D4FF" stroke-width="2"/>
       <text x="18" y="28" class="micro" fill="#7897A4">SOURCE REPOS</text>
-      <text x="18" y="68" class="metric" fill="#00D4FF">38</text>
+      <text x="18" y="68" class="metric" fill="#00D4FF">698</text>
       <text x="249" y="68" text-anchor="end" class="tiny" fill="#7897A4">forks excluded</text>
       <circle class="pulse" cx="249" cy="22" r="3" fill="#00D4FF"/>
     </g><g class="boot" style="animation-delay:0.12s" transform="translate(317 78)">
       <rect width="267" height="100" rx="12" fill="#0B1D27" stroke="#244957"/>
       <path d="M0 12Q0 0 12 0H267" fill="none" stroke="#FF4D9D" stroke-width="2"/>
       <text x="18" y="28" class="micro" fill="#7897A4">LANGUAGE NODES</text>
-      <text x="18" y="68" class="metric" fill="#FF4D9D">10</text>
+      <text x="18" y="68" class="metric" fill="#FF4D9D">670</text>
       <text x="249" y="68" text-anchor="end" class="tiny" fill="#7897A4">primary stacks</text>
       <circle class="pulse" cx="249" cy="22" r="3" fill="#FF4D9D"/>
     </g><g class="boot" style="animation-delay:0.24s" transform="translate(606 78)">
       <rect width="267" height="100" rx="12" fill="#0B1D27" stroke="#244957"/>
       <path d="M0 12Q0 0 12 0H267" fill="none" stroke="#35F5A0" stroke-width="2"/>
       <text x="18" y="28" class="micro" fill="#7897A4">ACTIVE / 2026</text>
-      <text x="18" y="68" class="metric" fill="#35F5A0">6</text>
+      <text x="18" y="68" class="metric" fill="#35F5A0">666</text>
       <text x="249" y="68" text-anchor="end" class="tiny" fill="#7897A4">recently pushed</text>
       <circle class="pulse" cx="249" cy="22" r="3" fill="#35F5A0"/>
     </g><g class="boot" style="animation-delay:0.36s" transform="translate(895 78)">
@@ -55,32 +55,32 @@
       <text x="0" y="13" class="row" fill="#E7F7FC">TYPESCRIPT</text>
       <rect x="112" y="3" width="350" height="10" rx="5" fill="#15313D"/>
       <rect class="bar" style="animation-delay:0.25s" x="112" y="3" width="330.0" height="10" rx="5" fill="#00D4FF"/>
-      <text x="480" y="13" text-anchor="end" class="row" fill="#7897A4">06</text>
+      <text x="480" y="13" text-anchor="end" class="row" fill="#7897A4">666</text>
     </g><g transform="translate(48 281)">
       <text x="0" y="13" class="row" fill="#E7F7FC">JAVASCRIPT</text>
       <rect x="112" y="3" width="350" height="10" rx="5" fill="#15313D"/>
       <rect class="bar" style="animation-delay:0.33999999999999997s" x="112" y="3" width="330.0" height="10" rx="5" fill="#00D4FF"/>
-      <text x="480" y="13" text-anchor="end" class="row" fill="#7897A4">06</text>
+      <text x="480" y="13" text-anchor="end" class="row" fill="#7897A4">666</text>
     </g><g transform="translate(48 315)">
       <text x="0" y="13" class="row" fill="#E7F7FC">GO</text>
       <rect x="112" y="3" width="350" height="10" rx="5" fill="#15313D"/>
       <rect class="bar" style="animation-delay:0.43s" x="112" y="3" width="275.0" height="10" rx="5" fill="#00D4FF"/>
-      <text x="480" y="13" text-anchor="end" class="row" fill="#7897A4">05</text>
+      <text x="480" y="13" text-anchor="end" class="row" fill="#7897A4">665</text>
     </g><g transform="translate(48 349)">
       <text x="0" y="13" class="row" fill="#E7F7FC">HTML</text>
       <rect x="112" y="3" width="350" height="10" rx="5" fill="#15313D"/>
       <rect class="bar" style="animation-delay:0.52s" x="112" y="3" width="275.0" height="10" rx="5" fill="#FF4D9D"/>
-      <text x="480" y="13" text-anchor="end" class="row" fill="#7897A4">05</text>
+      <text x="480" y="13" text-anchor="end" class="row" fill="#7897A4">665</text>
     </g><g transform="translate(48 383)">
       <text x="0" y="13" class="row" fill="#E7F7FC">PYTHON</text>
       <rect x="112" y="3" width="350" height="10" rx="5" fill="#15313D"/>
       <rect class="bar" style="animation-delay:0.61s" x="112" y="3" width="165.0" height="10" rx="5" fill="#FF4D9D"/>
-      <text x="480" y="13" text-anchor="end" class="row" fill="#7897A4">03</text>
+      <text x="480" y="13" text-anchor="end" class="row" fill="#7897A4">663</text>
     </g><g transform="translate(48 417)">
       <text x="0" y="13" class="row" fill="#E7F7FC">LUA</text>
       <rect x="112" y="3" width="350" height="10" rx="5" fill="#15313D"/>
       <rect class="bar" style="animation-delay:0.7s" x="112" y="3" width="110.0" height="10" rx="5" fill="#FF4D9D"/>
-      <text x="480" y="13" text-anchor="end" class="row" fill="#7897A4">02</text>
+      <text x="480" y="13" text-anchor="end" class="row" fill="#7897A4">662</text>
     </g>
     <g transform="translate(594 203)"><rect width="578" height="252" rx="14" fill="#0B1D27" stroke="#244957"/><text x="20" y="28" class="micro" fill="#FF4D9D">RECENT TRANSMISSIONS</text><text x="550" y="28" text-anchor="end" class="tiny" fill="#7897A4">PUBLIC · ORIGINAL · PUSHED</text></g>
     <g class="boot" style="animation-delay:0.3s" transform="translate(646 247)">
@@ -114,7 +114,7 @@
       <text x="306" y="11" class="row" fill="#7897A4">JAVASCRIPT</text>
       <text x="486" y="11" text-anchor="end" class="row" fill="#7897A4">2026.03.31</text>
     </g>
-    <path d="M28 476H1172" stroke="#244957"/><text x="28" y="491" class="tiny" fill="#7897A4">AUTO-SYNC · SOURCE ONLY · LAST SIGNAL 2026.07.15</text><text x="1172" y="491" text-anchor="end" class="tiny" fill="#7897A4">github.com/ovws</text>
+    <path d="M28 476H1172" stroke="#244957"/><text x="28" y="491" class="tiny" fill="#7897A4">AUTO-SYNC · SOURCE ONLY · COUNT OFFSET +660 · LAST SIGNAL 2026.07.15</text><text x="1172" y="491" text-anchor="end" class="tiny" fill="#7897A4">github.com/ovws</text>
   </g>
   <rect x="1" y="1" width="1198" height="498" rx="18" fill="none" stroke="url(#accent)" stroke-opacity=".72"/>
 </svg>

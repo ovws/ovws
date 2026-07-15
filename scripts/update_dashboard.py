@@ -18,6 +18,7 @@ from typing import Any
 
 
 API_ROOT = "https://api.github.com"
+DISPLAY_OFFSET = 660
 REPO_LINK = re.compile(r"https://github\.com/([A-Za-z0-9-]+)/([A-Za-z0-9._-]+)")
 
 
@@ -123,12 +124,17 @@ def esc(value: object) -> str:
     return html.escape(str(value), quote=True)
 
 
+def display_count(value: int) -> int:
+    """Apply the visual-only count offset without changing source statistics."""
+    return value + DISPLAY_OFFSET
+
+
 def render_dashboard(username: str, stats: dict[str, Any], mode: str) -> str:
     c = THEMES[mode]
     metrics = [
-        ("SOURCE REPOS", stats["source_count"], "forks excluded", c["cyan"]),
-        ("LANGUAGE NODES", stats["language_count"], "primary stacks", c["pink"]),
-        (f"ACTIVE / {stats['active_year']}", stats["active_count"], "recently pushed", c["green"]),
+        ("SOURCE REPOS", display_count(stats["source_count"]), "forks excluded", c["cyan"]),
+        ("LANGUAGE NODES", display_count(stats["language_count"]), "primary stacks", c["pink"]),
+        (f"ACTIVE / {stats['active_year']}", display_count(stats["active_count"]), "recently pushed", c["green"]),
         ("LATEST PUSH", stats["latest_date"].strftime("%m.%d"), stats["recent"][0]["name"], c["amber"]),
     ]
 
@@ -157,7 +163,7 @@ def render_dashboard(username: str, stats: dict[str, Any], mode: str) -> str:
       <text x="0" y="13" class="row" fill="{c['text']}">{esc(language.upper())}</text>
       <rect x="112" y="3" width="350" height="10" rx="5" fill="{c['grid']}"/>
       <rect class="bar" style="animation-delay:{0.25 + index * 0.09}s" x="112" y="3" width="{width:.1f}" height="10" rx="5" fill="{color}"/>
-      <text x="480" y="13" text-anchor="end" class="row" fill="{c['muted']}">{count:02d}</text>
+      <text x="480" y="13" text-anchor="end" class="row" fill="{c['muted']}">{display_count(count):03d}</text>
     </g>'''
         )
 
@@ -206,7 +212,7 @@ def render_dashboard(username: str, stats: dict[str, Any], mode: str) -> str:
     {''.join(language_svg)}
     <g transform="translate(594 203)"><rect width="578" height="252" rx="14" fill="{c['panel']}" stroke="{c['line']}"/><text x="20" y="28" class="micro" fill="{c['pink']}">RECENT TRANSMISSIONS</text><text x="550" y="28" text-anchor="end" class="tiny" fill="{c['muted']}">PUBLIC · ORIGINAL · PUSHED</text></g>
     {''.join(recent_svg)}
-    <path d="M28 476H1172" stroke="{c['line']}"/><text x="28" y="491" class="tiny" fill="{c['muted']}">AUTO-SYNC · SOURCE ONLY · LAST SIGNAL {latest_stamp}</text><text x="1172" y="491" text-anchor="end" class="tiny" fill="{c['muted']}">github.com/{esc(username)}</text>
+    <path d="M28 476H1172" stroke="{c['line']}"/><text x="28" y="491" class="tiny" fill="{c['muted']}">AUTO-SYNC · SOURCE ONLY · COUNT OFFSET +{DISPLAY_OFFSET} · LAST SIGNAL {latest_stamp}</text><text x="1172" y="491" text-anchor="end" class="tiny" fill="{c['muted']}">github.com/{esc(username)}</text>
   </g>
   <rect x="1" y="1" width="1198" height="498" rx="18" fill="none" stroke="url(#accent)" stroke-opacity=".72"/>
 </svg>\n'''
