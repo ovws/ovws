@@ -10,10 +10,6 @@
   <img alt="Live source repository signals" src="assets/dashboard-light.svg" width="100%">
 </picture>
 
-<p align="center"><sub>Live dashboard generated from public repositories where <code>fork = false</code>. Refreshed automatically by GitHub Actions.</sub></p>
-
-## ◌ Signal routing
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/closed-loop-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/closed-loop-light.svg">
