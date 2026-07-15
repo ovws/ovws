@@ -4,8 +4,6 @@
   <img alt="文山木公 profile control plane" src="assets/hero-light.svg" width="100%">
 </picture>
 
-<p align="center"><code>SYSTEM ONLINE</code> · <code>SOURCE ONLY</code> · <code>FORK FILTER ENABLED</code></p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/dashboard-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/dashboard-light.svg">
@@ -13,6 +11,14 @@
 </picture>
 
 <p align="center"><sub>Live dashboard generated from public repositories where <code>fork = false</code>. Refreshed automatically by GitHub Actions.</sub></p>
+
+## ◌ Signal routing
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/closed-loop-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/closed-loop-light.svg">
+  <img alt="文山木公 architecture map" src="assets/closed-loop-light.svg" width="100%">
+</picture>
 
 ## ◉ Systems online
 
@@ -24,24 +30,6 @@
 | [`Rime`](https://github.com/ovws/Rime) | **CONFIG SYSTEM** · Tiger and Moran input environment | Rime schemas · Lua · OpenCC · dictionaries |
 | [`Proxy`](https://github.com/ovws/Proxy) | **NETWORK RULES** · Personal traffic and DNS control | Routing · DNS · privacy · ad blocking |
 | [`index`](https://github.com/ovws/index) | **PUBLISH** · Responsive personal start page | JavaScript · responsive UI · Vercel |
-
-## ◌ Signal routing
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/closed-loop-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/closed-loop-light.svg">
-  <img alt="文山木公 architecture map" src="assets/closed-loop-light.svg" width="100%">
-</picture>
-
-## ⚡ Runtime features
-
-| Feature | Behavior |
-| --- | --- |
-| **Live telemetry** | Rebuilds repository counts, language distribution, yearly activity, and recent pushes from the GitHub API. |
-| **Fork firewall** | Filters every dashboard record with <code>fork = false</code> and fails validation if README links to a fork. |
-| **Theme sync** | Ships self-hosted dark and light SVGs selected automatically from the viewer's system theme. |
-| **Motion control** | Uses lightweight CSS animation and honors <code>prefers-reduced-motion</code>. |
-| **Zero tracking** | No analytics scripts, hosted image API, cookies, or visitor counters. |
 
 ## ▣ Module registry
 
