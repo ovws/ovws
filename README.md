@@ -4,20 +4,33 @@
   <img alt="文山木公 profile control plane" src="assets/hero-light.svg" width="100%">
 </picture>
 
-![profile](https://img.shields.io/badge/profile-ovws-00A7D1?style=flat-square&labelColor=102934) ![layers](https://img.shields.io/badge/layers-8-E84A8A?style=flat-square&labelColor=102934)
+A multi-language portfolio spanning Cloudflare, automation, web applications, and Chinese input systems\.
 
-Projects and experiments across Cloudflare, workflow automation, developer tooling, and Chinese input methods\.
+## Portfolio snapshot
+
+| Repository portfolio | Primary languages | Engineering focus |
+| --- | --- | --- |
+| **79 public repositories** | TypeScript · JavaScript · Go · Python · Lua | Edge AI · Automation · Web apps · Input systems |
+
+## Technical focus
+
+| Area | Stack and capabilities | Selected work |
+| --- | --- | --- |
+| **Edge & AI** | Cloudflare Workers, Durable Objects, R2, Workers AI, AI-assisted visualization | [`agent-inbox`](https://github.com/ovws/agent-inbox) · [`lifek`](https://github.com/ovws/lifek) |
+| **Automation** | GitHub Actions, scheduled workflows, Python and TypeScript tooling | [`GLaDOS`](https://github.com/ovws/GLaDOS) |
+| **Input engineering** | Rime schemas, Lua extensions, dictionaries, OpenCC, keyboard theming | [`fat-tiger`](https://github.com/ovws/fat-tiger) · [`Rime`](https://github.com/ovws/Rime) · [`lishi-keyboard-theme`](https://github.com/ovws/lishi-keyboard-theme) |
+| **Web & systems** | TypeScript, Vue, Go, responsive interfaces, routing and DNS configuration | [`jsonss`](https://github.com/ovws/jsonss) · [`index`](https://github.com/ovws/index) · [`Proxy`](https://github.com/ovws/Proxy) |
 
 ## Flagship systems
 
 | Repository | Role | Purpose |
 | --- | --- | --- |
-| [`agent-inbox`](https://github.com/ovws/agent-inbox) ![stars](https://img.shields.io/github/stars/ovws/agent--inbox?style=flat-square&label=%E2%98%85) | CLOUDFLARE | Self-hosted email with Durable Objects, R2, Workers AI, and an integrated agent\. |
-| [`fat-tiger`](https://github.com/ovws/fat-tiger) ![stars](https://img.shields.io/github/stars/ovws/fat--tiger?style=flat-square&label=%E2%98%85) | INPUT | A feature-rich Rime shape-based input method with language-model support\. |
-| [`Proxy`](https://github.com/ovws/Proxy) ![stars](https://img.shields.io/github/stars/ovws/Proxy?style=flat-square&label=%E2%98%85) | NETWORK | 个人代理分流、规则与配置。 |
-| [`Rime`](https://github.com/ovws/Rime) ![stars](https://img.shields.io/github/stars/ovws/Rime?style=flat-square&label=%E2%98%85) | CONFIG | 个人 Rime 配置，包含虎码与魔然码。 |
-| [`index`](https://github.com/ovws/index) ![stars](https://img.shields.io/github/stars/ovws/index?style=flat-square&label=%E2%98%85) | START PAGE | A responsive personal navigation page with a lightweight interface\. |
-| [`lishi-keyboard-theme`](https://github.com/ovws/lishi-keyboard-theme) ![stars](https://img.shields.io/github/stars/ovws/lishi--keyboard--theme?style=flat-square&label=%E2%98%85) | KEYBOARD | 李氏三拼 3x5 键盘双字体主题。 |
+| [`agent-inbox`](https://github.com/ovws/agent-inbox) | EDGE AI | Email on Cloudflare Workers with Durable Objects, R2, Workers AI, and an integrated agent\. |
+| [`fat-tiger`](https://github.com/ovws/fat-tiger) | INPUT ENGINE | Rime shape-based input with language-model support, multilingual modes, and Lua extensions\. |
+| [`Rime`](https://github.com/ovws/Rime) | CONFIG SYSTEM | A personal Rime system combining Tiger, Moran, dictionaries, OpenCC, and Lua tools\. |
+| [`Proxy`](https://github.com/ovws/Proxy) | NETWORK RULES | Personal routing rules, DNS settings, icons, privacy, and ad-blocking configuration\. |
+| [`index`](https://github.com/ovws/index) | START PAGE | A responsive navigation page with custom typography and lightweight interactions\. |
+| [`lishi-keyboard-theme`](https://github.com/ovws/lishi-keyboard-theme) | KEYBOARD UI | A multi-variant 3x5 keyboard theme with tuned typography and device-specific editions\. |
 
 ## Closed-loop architecture
 
@@ -30,14 +43,13 @@ Projects and experiments across Cloudflare, workflow automation, developer tooli
 ## Module registry
 
 <details>
-<summary><strong>Cloud &amp; automation</strong> · 4 modules</summary>
+<summary><strong>Cloud &amp; automation</strong> · 3 modules</summary>
 
 | Module | Purpose |
 | --- | --- |
 | [`agent-inbox`](https://github.com/ovws/agent-inbox) | Self-hosted AI email on Cloudflare Workers\. |
-| [`n8n`](https://github.com/ovws/n8n) | Workflow automation with code and no-code tools\. |
-| [`GLaDOS`](https://github.com/ovws/GLaDOS) | Automated check-ins with GitHub Actions\. |
-| [`dnsdev`](https://github.com/ovws/dnsdev) | DNS and cloud infrastructure experiments\. |
+| [`GLaDOS`](https://github.com/ovws/GLaDOS) | Scheduled automation with GitHub Actions\. |
+| [`lifek`](https://github.com/ovws/lifek) | AI-assisted life data visualization built with TypeScript\. |
 
 </details>
 
@@ -46,9 +58,9 @@ Projects and experiments across Cloudflare, workflow automation, developer tooli
 
 | Module | Purpose |
 | --- | --- |
-| [`fat-tiger`](https://github.com/ovws/fat-tiger) | 基于 Rime 的虎码智能中文输入方案。 |
-| [`Rime`](https://github.com/ovws/Rime) | 个人 Rime 配置，包含虎码与魔然码。 |
-| [`lishi-keyboard-theme`](https://github.com/ovws/lishi-keyboard-theme) | 李氏三拼 3x5 键盘双字体主题。 |
+| [`fat-tiger`](https://github.com/ovws/fat-tiger) | 基于 Rime、语言模型与 Lua 扩展的虎码输入方案。 |
+| [`Rime`](https://github.com/ovws/Rime) | 虎码、魔然码、词库、OpenCC 与个性化配置集合。 |
+| [`lishi-keyboard-theme`](https://github.com/ovws/lishi-keyboard-theme) | 包含多个字体与设备版本的李氏三拼 3x5 键盘主题。 |
 
 </details>
 
@@ -60,18 +72,18 @@ Projects and experiments across Cloudflare, workflow automation, developer tooli
 | [`jsonss`](https://github.com/ovws/jsonss) | A TypeScript application built with Google AI Studio\. |
 | [`index`](https://github.com/ovws/index) | A responsive personal start page\. |
 | [`resume`](https://github.com/ovws/resume) | A personal resume website built with HTML, CSS, and JavaScript\. |
-| [`wikiq.github.io`](https://github.com/ovws/wikiq.github.io) | A personal website and publishing project\. |
+| [`StudentManager`](https://github.com/ovws/StudentManager) | A full-stack management system using Spring, MyBatis, MySQL, and LayUI\. |
 
 </details>
 
 <details>
-<summary><strong>Tools &amp; experiments</strong> · 4 modules</summary>
+<summary><strong>Systems &amp; tools</strong> · 4 modules</summary>
 
 | Module | Purpose |
 | --- | --- |
-| [`Proxy`](https://github.com/ovws/Proxy) | 个人代理分流、规则与配置。 |
-| [`bwg`](https://github.com/ovws/bwg) | A Go-based utility project\. |
-| [`TwoGo`](https://github.com/ovws/TwoGo) | A Go experiment and utility project\. |
+| [`Proxy`](https://github.com/ovws/Proxy) | 代理分流、DNS、隐私与安全规则配置。 |
+| [`bwg`](https://github.com/ovws/bwg) | A Go-based systems utility project\. |
+| [`bbs-go`](https://github.com/ovws/bbs-go) | A Go application and backend experiment\. |
 | [`comment`](https://github.com/ovws/comment) | NotionNuxt 评论插件。 |
 
 </details>
