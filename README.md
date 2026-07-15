@@ -4,35 +4,28 @@
   <img alt="文山木公 profile control plane" src="assets/hero-light.svg" width="100%">
 </picture>
 
-A multi-language portfolio spanning Cloudflare, automation, web applications, and Chinese input systems\.
+<p align="center"><code>SYSTEM ONLINE</code> · <code>SOURCE ONLY</code> · <code>FORK FILTER ENABLED</code></p>
 
-## Portfolio snapshot
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dashboard-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/dashboard-light.svg">
+  <img alt="Live source repository signals" src="assets/dashboard-light.svg" width="100%">
+</picture>
 
-| Repository portfolio | Primary languages | Engineering focus |
+<p align="center"><sub>Live dashboard generated from public repositories where <code>fork = false</code>. Refreshed automatically by GitHub Actions.</sub></p>
+
+## ◉ Systems online
+
+| Node | Mission | Runtime |
 | --- | --- | --- |
-| **79 public repositories** | TypeScript · JavaScript · Go · Python · Lua | Edge AI · Automation · Web apps · Input systems |
+| [`agent-inbox`](https://github.com/ovws/agent-inbox) | **EDGE AI** · Self-hosted AI email and agent tools | Cloudflare Workers · Durable Objects · R2 · Workers AI |
+| [`lifek`](https://github.com/ovws/lifek) | **VISUALIZE** · AI-assisted life data visualization | TypeScript · React · Vercel |
+| [`fat-tiger`](https://github.com/ovws/fat-tiger) | **INPUT ENGINE** · Intelligent Rime shape-based input | Lua · language model · multilingual modes |
+| [`Rime`](https://github.com/ovws/Rime) | **CONFIG SYSTEM** · Tiger and Moran input environment | Rime schemas · Lua · OpenCC · dictionaries |
+| [`Proxy`](https://github.com/ovws/Proxy) | **NETWORK RULES** · Personal traffic and DNS control | Routing · DNS · privacy · ad blocking |
+| [`index`](https://github.com/ovws/index) | **PUBLISH** · Responsive personal start page | JavaScript · responsive UI · Vercel |
 
-## Technical focus
-
-| Area | Stack and capabilities | Selected work |
-| --- | --- | --- |
-| **Edge & AI** | Cloudflare Workers, Durable Objects, R2, Workers AI, AI-assisted visualization | [`agent-inbox`](https://github.com/ovws/agent-inbox) · [`lifek`](https://github.com/ovws/lifek) |
-| **Automation** | GitHub Actions, scheduled workflows, Python and TypeScript tooling | [`GLaDOS`](https://github.com/ovws/GLaDOS) |
-| **Input engineering** | Rime schemas, Lua extensions, dictionaries, OpenCC, keyboard theming | [`fat-tiger`](https://github.com/ovws/fat-tiger) · [`Rime`](https://github.com/ovws/Rime) · [`lishi-keyboard-theme`](https://github.com/ovws/lishi-keyboard-theme) |
-| **Web & systems** | TypeScript, Vue, Go, responsive interfaces, routing and DNS configuration | [`jsonss`](https://github.com/ovws/jsonss) · [`index`](https://github.com/ovws/index) · [`Proxy`](https://github.com/ovws/Proxy) |
-
-## Flagship systems
-
-| Repository | Role | Purpose |
-| --- | --- | --- |
-| [`agent-inbox`](https://github.com/ovws/agent-inbox) | EDGE AI | Email on Cloudflare Workers with Durable Objects, R2, Workers AI, and an integrated agent\. |
-| [`fat-tiger`](https://github.com/ovws/fat-tiger) | INPUT ENGINE | Rime shape-based input with language-model support, multilingual modes, and Lua extensions\. |
-| [`Rime`](https://github.com/ovws/Rime) | CONFIG SYSTEM | A personal Rime system combining Tiger, Moran, dictionaries, OpenCC, and Lua tools\. |
-| [`Proxy`](https://github.com/ovws/Proxy) | NETWORK RULES | Personal routing rules, DNS settings, icons, privacy, and ad-blocking configuration\. |
-| [`index`](https://github.com/ovws/index) | START PAGE | A responsive navigation page with custom typography and lightweight interactions\. |
-| [`lishi-keyboard-theme`](https://github.com/ovws/lishi-keyboard-theme) | KEYBOARD UI | A multi-variant 3x5 keyboard theme with tuned typography and device-specific editions\. |
-
-## Closed-loop architecture
+## ◌ Signal routing
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/closed-loop-dark.svg">
@@ -40,54 +33,64 @@ A multi-language portfolio spanning Cloudflare, automation, web applications, an
   <img alt="文山木公 architecture map" src="assets/closed-loop-light.svg" width="100%">
 </picture>
 
-## Module registry
+## ⚡ Runtime features
+
+| Feature | Behavior |
+| --- | --- |
+| **Live telemetry** | Rebuilds repository counts, language distribution, yearly activity, and recent pushes from the GitHub API. |
+| **Fork firewall** | Filters every dashboard record with <code>fork = false</code> and fails validation if README links to a fork. |
+| **Theme sync** | Ships self-hosted dark and light SVGs selected automatically from the viewer's system theme. |
+| **Motion control** | Uses lightweight CSS animation and honors <code>prefers-reduced-motion</code>. |
+| **Zero tracking** | No analytics scripts, hosted image API, cookies, or visitor counters. |
+
+## ▣ Module registry
 
 <details>
-<summary><strong>Cloud &amp; automation</strong> · 3 modules</summary>
+<summary><strong>Edge, AI &amp; automation</strong> · 3 source repositories</summary>
 
-| Module | Purpose |
+| Module | Signal |
 | --- | --- |
-| [`agent-inbox`](https://github.com/ovws/agent-inbox) | Self-hosted AI email on Cloudflare Workers\. |
-| [`GLaDOS`](https://github.com/ovws/GLaDOS) | Scheduled automation with GitHub Actions\. |
-| [`lifek`](https://github.com/ovws/lifek) | AI-assisted life data visualization built with TypeScript\. |
+| [`agent-inbox`](https://github.com/ovws/agent-inbox) | Self-hosted AI email on Cloudflare Workers. |
+| [`lifek`](https://github.com/ovws/lifek) | AI-assisted K-line visualization built with TypeScript. |
+| [`GLaDOS`](https://github.com/ovws/GLaDOS) | Scheduled automation with GitHub Actions and Python. |
 
 </details>
 
 <details>
-<summary><strong>Input systems</strong> · 3 modules</summary>
+<summary><strong>Input lab</strong> · 3 source repositories</summary>
 
-| Module | Purpose |
+| Module | Signal |
 | --- | --- |
 | [`fat-tiger`](https://github.com/ovws/fat-tiger) | 基于 Rime、语言模型与 Lua 扩展的虎码输入方案。 |
 | [`Rime`](https://github.com/ovws/Rime) | 虎码、魔然码、词库、OpenCC 与个性化配置集合。 |
-| [`lishi-keyboard-theme`](https://github.com/ovws/lishi-keyboard-theme) | 包含多个字体与设备版本的李氏三拼 3x5 键盘主题。 |
+| [`lishi-keyboard-theme`](https://github.com/ovws/lishi-keyboard-theme) | 多字体、多设备版本的李氏三拼 3×5 键盘主题。 |
 
 </details>
 
 <details>
-<summary><strong>Web &amp; applications</strong> · 4 modules</summary>
+<summary><strong>Web terminals</strong> · 4 source repositories</summary>
 
-| Module | Purpose |
+| Module | Signal |
 | --- | --- |
-| [`jsonss`](https://github.com/ovws/jsonss) | A TypeScript application built with Google AI Studio\. |
-| [`index`](https://github.com/ovws/index) | A responsive personal start page\. |
-| [`resume`](https://github.com/ovws/resume) | A personal resume website built with HTML, CSS, and JavaScript\. |
-| [`StudentManager`](https://github.com/ovws/StudentManager) | A full-stack management system using Spring, MyBatis, MySQL, and LayUI\. |
+| [`jsonss`](https://github.com/ovws/jsonss) | TypeScript application built with Google AI Studio. |
+| [`index`](https://github.com/ovws/index) | Responsive personal navigation terminal. |
+| [`resume`](https://github.com/ovws/resume) | Personal resume website using HTML, CSS, and JavaScript. |
+| [`StudentManager`](https://github.com/ovws/StudentManager) | Management system using Spring, MyBatis, MySQL, and LayUI. |
 
 </details>
 
 <details>
-<summary><strong>Systems &amp; tools</strong> · 4 modules</summary>
+<summary><strong>Systems &amp; tools</strong> · 4 source repositories</summary>
 
-| Module | Purpose |
+| Module | Signal |
 | --- | --- |
 | [`Proxy`](https://github.com/ovws/Proxy) | 代理分流、DNS、隐私与安全规则配置。 |
-| [`bwg`](https://github.com/ovws/bwg) | A Go-based systems utility project\. |
-| [`bbs-go`](https://github.com/ovws/bbs-go) | A Go application and backend experiment\. |
-| [`comment`](https://github.com/ovws/comment) | NotionNuxt 评论插件。 |
+| [`bwg`](https://github.com/ovws/bwg) | Go-based systems utility project. |
+| [`bbs-go`](https://github.com/ovws/bbs-go) | Go application and backend experiment. |
+| [`dockerfiles`](https://github.com/ovws/dockerfiles) | Container build definitions and deployment experiments. |
 
 </details>
 
 <p align="center"><a href="https://github.com/ovws">GitHub</a> · <a href="https://t.me/woccn">Telegram</a> · <a href="https://twitter.com/wensqi">X / Twitter</a></p>
 
-<!-- Generated by profile-control-plane. Edit profile.yaml, not this file. -->
+<!-- Live dashboard data is generated by scripts/update_dashboard.py. -->
