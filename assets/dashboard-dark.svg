@@ -25,7 +25,7 @@
       <rect width="267" height="100" rx="12" fill="#0B1D27" stroke="#244957"/>
       <path d="M0 12Q0 0 12 0H267" fill="none" stroke="#00D4FF" stroke-width="2"/>
       <text x="18" y="28" class="micro" fill="#7897A4">SOURCE REPOS</text>
-      <text x="18" y="68" class="metric" fill="#00D4FF">698</text>
+      <text x="18" y="68" class="metric" fill="#00D4FF">699</text>
       <text x="249" y="68" text-anchor="end" class="tiny" fill="#7897A4">forks excluded</text>
       <circle class="pulse" cx="249" cy="22" r="3" fill="#00D4FF"/>
     </g><g class="boot" style="animation-delay:0.12s" transform="translate(317 78)">
@@ -39,15 +39,15 @@
       <rect width="267" height="100" rx="12" fill="#0B1D27" stroke="#244957"/>
       <path d="M0 12Q0 0 12 0H267" fill="none" stroke="#35F5A0" stroke-width="2"/>
       <text x="18" y="28" class="micro" fill="#7897A4">ACTIVE / 2026</text>
-      <text x="18" y="68" class="metric" fill="#35F5A0">666</text>
+      <text x="18" y="68" class="metric" fill="#35F5A0">667</text>
       <text x="249" y="68" text-anchor="end" class="tiny" fill="#7897A4">recently pushed</text>
       <circle class="pulse" cx="249" cy="22" r="3" fill="#35F5A0"/>
     </g><g class="boot" style="animation-delay:0.36s" transform="translate(895 78)">
       <rect width="267" height="100" rx="12" fill="#0B1D27" stroke="#244957"/>
       <path d="M0 12Q0 0 12 0H267" fill="none" stroke="#FFC857" stroke-width="2"/>
       <text x="18" y="28" class="micro" fill="#7897A4">LATEST PUSH</text>
-      <text x="18" y="68" class="metric" fill="#FFC857">07.15</text>
-      <text x="249" y="68" text-anchor="end" class="tiny" fill="#7897A4">jsonss</text>
+      <text x="18" y="68" class="metric" fill="#FFC857">07.16</text>
+      <text x="249" y="68" text-anchor="end" class="tiny" fill="#7897A4">GColab</text>
       <circle class="pulse" cx="249" cy="22" r="3" fill="#FFC857"/>
     </g>
     <g transform="translate(28 203)"><rect width="548" height="252" rx="14" fill="#0B1D27" stroke="#244957"/><text x="20" y="28" class="micro" fill="#00D4FF">LANGUAGE TELEMETRY</text><text x="520" y="28" text-anchor="end" class="tiny" fill="#7897A4">PRIMARY LANGUAGE / REPOSITORY</text></g>
@@ -86,35 +86,35 @@
     <g class="boot" style="animation-delay:0.3s" transform="translate(646 247)">
       <circle class="pulse" cx="5" cy="7" r="4" fill="#00D4FF"/>
       <path d="M18 7H42" stroke="#00D4FF" stroke-opacity=".55"/>
-      <text x="52" y="11" class="repo" fill="#E7F7FC">jsonss</text>
-      <text x="306" y="11" class="row" fill="#7897A4">TYPESCRIPT</text>
-      <text x="486" y="11" text-anchor="end" class="row" fill="#7897A4">2026.07.15</text>
+      <text x="52" y="11" class="repo" fill="#E7F7FC">GColab</text>
+      <text x="306" y="11" class="row" fill="#7897A4">CONFIG</text>
+      <text x="486" y="11" text-anchor="end" class="row" fill="#7897A4">2026.07.16</text>
     </g><g class="boot" style="animation-delay:0.4s" transform="translate(646 286)">
       <circle class="pulse" cx="5" cy="7" r="4" fill="#FF4D9D"/>
       <path d="M18 7H42" stroke="#FF4D9D" stroke-opacity=".55"/>
-      <text x="52" y="11" class="repo" fill="#E7F7FC">agent-inbox</text>
+      <text x="52" y="11" class="repo" fill="#E7F7FC">jsonss</text>
       <text x="306" y="11" class="row" fill="#7897A4">TYPESCRIPT</text>
-      <text x="486" y="11" text-anchor="end" class="row" fill="#7897A4">2026.05.06</text>
+      <text x="486" y="11" text-anchor="end" class="row" fill="#7897A4">2026.07.15</text>
     </g><g class="boot" style="animation-delay:0.5s" transform="translate(646 325)">
       <circle class="pulse" cx="5" cy="7" r="4" fill="#00D4FF"/>
       <path d="M18 7H42" stroke="#00D4FF" stroke-opacity=".55"/>
-      <text x="52" y="11" class="repo" fill="#E7F7FC">Proxy</text>
-      <text x="306" y="11" class="row" fill="#7897A4">CONFIG</text>
-      <text x="486" y="11" text-anchor="end" class="row" fill="#7897A4">2026.04.16</text>
+      <text x="52" y="11" class="repo" fill="#E7F7FC">agent-inbox</text>
+      <text x="306" y="11" class="row" fill="#7897A4">TYPESCRIPT</text>
+      <text x="486" y="11" text-anchor="end" class="row" fill="#7897A4">2026.05.06</text>
     </g><g class="boot" style="animation-delay:0.6000000000000001s" transform="translate(646 364)">
       <circle class="pulse" cx="5" cy="7" r="4" fill="#FF4D9D"/>
       <path d="M18 7H42" stroke="#FF4D9D" stroke-opacity=".55"/>
-      <text x="52" y="11" class="repo" fill="#E7F7FC">lishi-keyboard-theme</text>
-      <text x="306" y="11" class="row" fill="#7897A4">PYTHON</text>
-      <text x="486" y="11" text-anchor="end" class="row" fill="#7897A4">2026.04.06</text>
+      <text x="52" y="11" class="repo" fill="#E7F7FC">Proxy</text>
+      <text x="306" y="11" class="row" fill="#7897A4">CONFIG</text>
+      <text x="486" y="11" text-anchor="end" class="row" fill="#7897A4">2026.04.16</text>
     </g><g class="boot" style="animation-delay:0.7s" transform="translate(646 403)">
       <circle class="pulse" cx="5" cy="7" r="4" fill="#00D4FF"/>
       <path d="M18 7H42" stroke="#00D4FF" stroke-opacity=".55"/>
-      <text x="52" y="11" class="repo" fill="#E7F7FC">index</text>
-      <text x="306" y="11" class="row" fill="#7897A4">JAVASCRIPT</text>
-      <text x="486" y="11" text-anchor="end" class="row" fill="#7897A4">2026.03.31</text>
+      <text x="52" y="11" class="repo" fill="#E7F7FC">lishi-keyboard-theme</text>
+      <text x="306" y="11" class="row" fill="#7897A4">PYTHON</text>
+      <text x="486" y="11" text-anchor="end" class="row" fill="#7897A4">2026.04.06</text>
     </g>
-    <path d="M28 476H1172" stroke="#244957"/><text x="28" y="491" class="tiny" fill="#7897A4">AUTO-SYNC · SOURCE ONLY · COUNT OFFSET +660 · LAST SIGNAL 2026.07.15</text><text x="1172" y="491" text-anchor="end" class="tiny" fill="#7897A4">github.com/ovws</text>
+    <path d="M28 476H1172" stroke="#244957"/><text x="28" y="491" class="tiny" fill="#7897A4">AUTO-SYNC · SOURCE ONLY · COUNT OFFSET +660 · LAST SIGNAL 2026.07.16</text><text x="1172" y="491" text-anchor="end" class="tiny" fill="#7897A4">github.com/ovws</text>
   </g>
   <rect x="1" y="1" width="1198" height="498" rx="18" fill="none" stroke="url(#accent)" stroke-opacity=".72"/>
 </svg>
