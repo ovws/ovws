@@ -39,15 +39,15 @@
       <rect width="267" height="100" rx="12" fill="#0B1D27" stroke="#244957"/>
       <path d="M0 12Q0 0 12 0H267" fill="none" stroke="#35F5A0" stroke-width="2"/>
       <text x="18" y="28" class="micro" fill="#7897A4">ACTIVE / 2026</text>
-      <text x="18" y="68" class="metric" fill="#35F5A0">19</text>
+      <text x="18" y="68" class="metric" fill="#35F5A0">20</text>
       <text x="249" y="68" text-anchor="end" class="tiny" fill="#7897A4">recently pushed</text>
       <circle class="pulse" cx="249" cy="22" r="3" fill="#35F5A0"/>
     </g><g class="boot" style="animation-delay:0.36s" transform="translate(895 78)">
       <rect width="267" height="100" rx="12" fill="#0B1D27" stroke="#244957"/>
       <path d="M0 12Q0 0 12 0H267" fill="none" stroke="#FFC857" stroke-width="2"/>
       <text x="18" y="28" class="micro" fill="#7897A4">LATEST PUSH</text>
-      <text x="18" y="68" class="metric" fill="#FFC857">08.13</text>
-      <text x="249" y="68" text-anchor="end" class="tiny" fill="#7897A4">resume</text>
+      <text x="18" y="68" class="metric" fill="#FFC857">09.03</text>
+      <text x="249" y="68" text-anchor="end" class="tiny" fill="#7897A4">comment</text>
       <circle class="pulse" cx="249" cy="22" r="3" fill="#FFC857"/>
     </g>
     <g transform="translate(28 203)"><rect width="548" height="252" rx="14" fill="#0B1D27" stroke="#244957"/><text x="20" y="28" class="micro" fill="#00D4FF">LANGUAGE TELEMETRY</text><text x="520" y="28" text-anchor="end" class="tiny" fill="#7897A4">PRIMARY LANGUAGE / REPOSITORY</text></g>
@@ -62,12 +62,12 @@
       <rect class="bar" style="animation-delay:0.33999999999999997s" x="112" y="3" width="270.0" height="10" rx="5" fill="#00D4FF"/>
       <text x="480" y="13" text-anchor="end" class="row" fill="#7897A4">009</text>
     </g><g transform="translate(48 315)">
-      <text x="0" y="13" class="row" fill="#E7F7FC">GO</text>
-      <rect x="112" y="3" width="350" height="10" rx="5" fill="#15313D"/>
-      <rect class="bar" style="animation-delay:0.43s" x="112" y="3" width="150.0" height="10" rx="5" fill="#00D4FF"/>
-      <text x="480" y="13" text-anchor="end" class="row" fill="#7897A4">005</text>
-    </g><g transform="translate(48 349)">
       <text x="0" y="13" class="row" fill="#E7F7FC">HTML</text>
+      <rect x="112" y="3" width="350" height="10" rx="5" fill="#15313D"/>
+      <rect class="bar" style="animation-delay:0.43s" x="112" y="3" width="180.0" height="10" rx="5" fill="#00D4FF"/>
+      <text x="480" y="13" text-anchor="end" class="row" fill="#7897A4">006</text>
+    </g><g transform="translate(48 349)">
+      <text x="0" y="13" class="row" fill="#E7F7FC">GO</text>
       <rect x="112" y="3" width="350" height="10" rx="5" fill="#15313D"/>
       <rect class="bar" style="animation-delay:0.52s" x="112" y="3" width="150.0" height="10" rx="5" fill="#FF4D9D"/>
       <text x="480" y="13" text-anchor="end" class="row" fill="#7897A4">005</text>
@@ -86,35 +86,35 @@
     <g class="boot" style="animation-delay:0.3s" transform="translate(646 247)">
       <circle class="pulse" cx="5" cy="7" r="4" fill="#00D4FF"/>
       <path d="M18 7H42" stroke="#00D4FF" stroke-opacity=".55"/>
-      <text x="52" y="11" class="repo" fill="#E7F7FC">resume</text>
-      <text x="306" y="11" class="row" fill="#7897A4">CSS</text>
-      <text x="486" y="11" text-anchor="end" class="row" fill="#7897A4">2026.08.13</text>
+      <text x="52" y="11" class="repo" fill="#E7F7FC">comment</text>
+      <text x="306" y="11" class="row" fill="#7897A4">HTML</text>
+      <text x="486" y="11" text-anchor="end" class="row" fill="#7897A4">2026.09.03</text>
     </g><g class="boot" style="animation-delay:0.4s" transform="translate(646 286)">
       <circle class="pulse" cx="5" cy="7" r="4" fill="#FF4D9D"/>
       <path d="M18 7H42" stroke="#FF4D9D" stroke-opacity=".55"/>
-      <text x="52" y="11" class="repo" fill="#E7F7FC">portfolio</text>
-      <text x="306" y="11" class="row" fill="#7897A4">TYPESCRIPT</text>
-      <text x="486" y="11" text-anchor="end" class="row" fill="#7897A4">2026.08.12</text>
+      <text x="52" y="11" class="repo" fill="#E7F7FC">resume</text>
+      <text x="306" y="11" class="row" fill="#7897A4">CSS</text>
+      <text x="486" y="11" text-anchor="end" class="row" fill="#7897A4">2026.08.13</text>
     </g><g class="boot" style="animation-delay:0.5s" transform="translate(646 325)">
       <circle class="pulse" cx="5" cy="7" r="4" fill="#00D4FF"/>
       <path d="M18 7H42" stroke="#00D4FF" stroke-opacity=".55"/>
-      <text x="52" y="11" class="repo" fill="#E7F7FC">rweb</text>
+      <text x="52" y="11" class="repo" fill="#E7F7FC">portfolio</text>
       <text x="306" y="11" class="row" fill="#7897A4">TYPESCRIPT</text>
-      <text x="486" y="11" text-anchor="end" class="row" fill="#7897A4">2026.08.11</text>
+      <text x="486" y="11" text-anchor="end" class="row" fill="#7897A4">2026.08.12</text>
     </g><g class="boot" style="animation-delay:0.6000000000000001s" transform="translate(646 364)">
       <circle class="pulse" cx="5" cy="7" r="4" fill="#FF4D9D"/>
       <path d="M18 7H42" stroke="#FF4D9D" stroke-opacity=".55"/>
-      <text x="52" y="11" class="repo" fill="#E7F7FC">3D-Web</text>
-      <text x="306" y="11" class="row" fill="#7897A4">JAVASCRIPT</text>
+      <text x="52" y="11" class="repo" fill="#E7F7FC">rweb</text>
+      <text x="306" y="11" class="row" fill="#7897A4">TYPESCRIPT</text>
       <text x="486" y="11" text-anchor="end" class="row" fill="#7897A4">2026.08.11</text>
     </g><g class="boot" style="animation-delay:0.7s" transform="translate(646 403)">
       <circle class="pulse" cx="5" cy="7" r="4" fill="#00D4FF"/>
       <path d="M18 7H42" stroke="#00D4FF" stroke-opacity=".55"/>
-      <text x="52" y="11" class="repo" fill="#E7F7FC">homepage</text>
+      <text x="52" y="11" class="repo" fill="#E7F7FC">3D-Web</text>
       <text x="306" y="11" class="row" fill="#7897A4">JAVASCRIPT</text>
-      <text x="486" y="11" text-anchor="end" class="row" fill="#7897A4">2026.08.10</text>
+      <text x="486" y="11" text-anchor="end" class="row" fill="#7897A4">2026.08.11</text>
     </g>
-    <path d="M28 476H1172" stroke="#244957"/><text x="28" y="491" class="tiny" fill="#7897A4">AUTO-SYNC · SOURCE ONLY · RAW GITHUB COUNTS · LAST SIGNAL 2026.08.13</text><text x="1172" y="491" text-anchor="end" class="tiny" fill="#7897A4">github.com/ovws</text>
+    <path d="M28 476H1172" stroke="#244957"/><text x="28" y="491" class="tiny" fill="#7897A4">AUTO-SYNC · SOURCE ONLY · RAW GITHUB COUNTS · LAST SIGNAL 2026.09.03</text><text x="1172" y="491" text-anchor="end" class="tiny" fill="#7897A4">github.com/ovws</text>
   </g>
   <rect x="1" y="1" width="1198" height="498" rx="18" fill="none" stroke="url(#accent)" stroke-opacity=".72"/>
 </svg>
