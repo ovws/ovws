@@ -46,7 +46,7 @@
       <rect width="267" height="100" rx="12" fill="#0B1D27" stroke="#244957"/>
       <path d="M0 12Q0 0 12 0H267" fill="none" stroke="#FFC857" stroke-width="2"/>
       <text x="18" y="28" class="micro" fill="#7897A4">LATEST PUSH</text>
-      <text x="18" y="68" class="metric" fill="#FFC857">11.01</text>
+      <text x="18" y="68" class="metric" fill="#FFC857">11.08</text>
       <text x="249" y="68" text-anchor="end" class="tiny" fill="#7897A4">Kaku-Windows</text>
       <circle class="pulse" cx="249" cy="22" r="3" fill="#FFC857"/>
     </g>
@@ -88,33 +88,33 @@
       <path d="M18 7H42" stroke="#00D4FF" stroke-opacity=".55"/>
       <text x="52" y="11" class="repo" fill="#E7F7FC">Kaku-Windows</text>
       <text x="306" y="11" class="row" fill="#7897A4">RUST</text>
-      <text x="486" y="11" text-anchor="end" class="row" fill="#7897A4">2026.11.01</text>
+      <text x="486" y="11" text-anchor="end" class="row" fill="#7897A4">2026.11.08</text>
     </g><g class="boot" style="animation-delay:0.4s" transform="translate(646 286)">
       <circle class="pulse" cx="5" cy="7" r="4" fill="#FF4D9D"/>
       <path d="M18 7H42" stroke="#FF4D9D" stroke-opacity=".55"/>
-      <text x="52" y="11" class="repo" fill="#E7F7FC">issues</text>
-      <text x="306" y="11" class="row" fill="#7897A4">CONFIG</text>
-      <text x="486" y="11" text-anchor="end" class="row" fill="#7897A4">2026.10.09</text>
+      <text x="52" y="11" class="repo" fill="#E7F7FC">GLaDOS</text>
+      <text x="306" y="11" class="row" fill="#7897A4">PYTHON</text>
+      <text x="486" y="11" text-anchor="end" class="row" fill="#7897A4">2026.11.04</text>
     </g><g class="boot" style="animation-delay:0.5s" transform="translate(646 325)">
       <circle class="pulse" cx="5" cy="7" r="4" fill="#00D4FF"/>
       <path d="M18 7H42" stroke="#00D4FF" stroke-opacity=".55"/>
-      <text x="52" y="11" class="repo" fill="#E7F7FC">ai2life</text>
-      <text x="306" y="11" class="row" fill="#7897A4">HTML</text>
-      <text x="486" y="11" text-anchor="end" class="row" fill="#7897A4">2026.10.06</text>
+      <text x="52" y="11" class="repo" fill="#E7F7FC">issues</text>
+      <text x="306" y="11" class="row" fill="#7897A4">CONFIG</text>
+      <text x="486" y="11" text-anchor="end" class="row" fill="#7897A4">2026.10.09</text>
     </g><g class="boot" style="animation-delay:0.6000000000000001s" transform="translate(646 364)">
       <circle class="pulse" cx="5" cy="7" r="4" fill="#FF4D9D"/>
       <path d="M18 7H42" stroke="#FF4D9D" stroke-opacity=".55"/>
-      <text x="52" y="11" class="repo" fill="#E7F7FC">Proxy</text>
-      <text x="306" y="11" class="row" fill="#7897A4">CONFIG</text>
-      <text x="486" y="11" text-anchor="end" class="row" fill="#7897A4">2026.10.02</text>
+      <text x="52" y="11" class="repo" fill="#E7F7FC">ai2life</text>
+      <text x="306" y="11" class="row" fill="#7897A4">HTML</text>
+      <text x="486" y="11" text-anchor="end" class="row" fill="#7897A4">2026.10.06</text>
     </g><g class="boot" style="animation-delay:0.7s" transform="translate(646 403)">
       <circle class="pulse" cx="5" cy="7" r="4" fill="#00D4FF"/>
       <path d="M18 7H42" stroke="#00D4FF" stroke-opacity=".55"/>
-      <text x="52" y="11" class="repo" fill="#E7F7FC">TreeLess-patch</text>
-      <text x="306" y="11" class="row" fill="#7897A4">SWIFT</text>
-      <text x="486" y="11" text-anchor="end" class="row" fill="#7897A4">2026.09.24</text>
+      <text x="52" y="11" class="repo" fill="#E7F7FC">Proxy</text>
+      <text x="306" y="11" class="row" fill="#7897A4">CONFIG</text>
+      <text x="486" y="11" text-anchor="end" class="row" fill="#7897A4">2026.10.02</text>
     </g>
-    <path d="M28 476H1172" stroke="#244957"/><text x="28" y="491" class="tiny" fill="#7897A4">AUTO-SYNC · SOURCE ONLY · RAW GITHUB COUNTS · LAST SIGNAL 2026.11.01</text><text x="1172" y="491" text-anchor="end" class="tiny" fill="#7897A4">github.com/ovws</text>
+    <path d="M28 476H1172" stroke="#244957"/><text x="28" y="491" class="tiny" fill="#7897A4">AUTO-SYNC · SOURCE ONLY · RAW GITHUB COUNTS · LAST SIGNAL 2026.11.08</text><text x="1172" y="491" text-anchor="end" class="tiny" fill="#7897A4">github.com/ovws</text>
   </g>
   <rect x="1" y="1" width="1198" height="498" rx="18" fill="none" stroke="url(#accent)" stroke-opacity=".72"/>
 </svg>
